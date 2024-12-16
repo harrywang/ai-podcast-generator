@@ -1,0 +1,5 @@
+python-dotenv
+pandas
+openai
+anthropic
+moviepy
