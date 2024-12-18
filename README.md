@@ -1,6 +1,6 @@
-# AI-Generated Podcast Creator
+# About
 
-This project uses Claude and GPT to generate engaging conversations between two AI characters and converts them into audio podcasts using OpenAI's Text-to-Speech API.
+This project uses OpenAI and Anthropic APIs to generate engaging conversations between two AI characters and converts them into audio podcasts using OpenAI's Text-to-Speech API.
 
 ## Features
 
